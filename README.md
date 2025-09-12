@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="[VOTRE_URL_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="Memoire.pdf"><img src="https://img.shields.io/badge/Read_Full_Thesis_(PDF)-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF"/></a>
+  <a href="https://www.linkedin.com/in/ethanchemla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="Masters_Thesis.pdf"><img src="https://img.shields.io/badge/Read_Full_Thesis_(PDF)-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF"/></a>
 </p>
 
 ---
