@@ -81,7 +81,7 @@ The second phase implemented the end-to-end reinforcement learning framework to 
 ## 📊 Visualizations
 
 *Example of the agent's adaptive liquidation strategy compared to the static TWAP benchmark. Green areas show an aggressive (faster) liquidation pace, while red shows a passive (slower) pace.*
-![Agent Liquidation Trajectory](images/trajector1.png)
+![Agent Liquidation Trajectory](images/trajectory1.png)
 
 *Evolution of the agent's performance (PnL difference vs. TWAP) over the training period, smoothed with a 5000-episode moving average, demonstrating a clear and robust learning curve.*
 ![Smoothed Learning Curve](images/pnl.png)
