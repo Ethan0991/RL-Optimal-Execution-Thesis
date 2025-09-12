@@ -18,11 +18,11 @@
   </tr>
   <tr>
     <td><strong>University</strong></td>
-    <td><img src="https://commons.wikimedia.org/wiki/File:LOGO-PSL-nov-2017.jpg" alt="PSL Logo" width="100"> <br> University Paris Dauphine - PSL</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/LOGO-PSL-nov-2017.jpg" alt="PSL Logo" width="100"> <br> University Paris Dauphine - PSL</td>
   </tr>
   <tr>
     <td><strong>In collaboration with</strong></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Natixis_logo.svg/1280px-Natixis_logo.svg.png" alt="Natixis Logo" width="120"> <br> Execution Algo Team at Natixis CIB</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Logo_natixis.gif" alt="Natixis Logo" width="120"> <br> Execution Algo Team at Natixis CIB</td>
   </tr>
   <tr>
     <td><strong>Degree</strong></td>
