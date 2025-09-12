@@ -88,7 +88,7 @@ The second phase implemented the end-to-end reinforcement learning framework to 
 
 
 **Evaluation on the out-of-sample set of the pnl difference**
-![Smoothed Learning Curve](images/mean1000.png)
+![Smoothed Learning Curve](images/pnl.png)
 
 ---
 
