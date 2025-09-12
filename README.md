@@ -59,15 +59,6 @@ The second phase implemented the end-to-end reinforcement learning framework to 
     * **Reward Function**: The agent's learning is guided by a sophisticated reward function designed to maximize financial outperformance against a **Time-Weighted Average Price (TWAP)** benchmark, including penalties for market impact and incomplete liquidation.
     * **Policy Network**: The agent leverages a hybrid **CNN-LSTM architecture** to effectively process the temporal nature of the market state.
 
-### Validation & Results
-
-The final out-of-sample evaluation on an unseen dataset confirms the successful training of a profitable and adaptive execution strategy. The agent demonstrated the ability to translate high-frequency signals into a superior execution policy, achieving:
-* **Average Alpha**: +$42.19 per episode against the TWAP benchmark.
-* **Win Rate**: 55.57% over 3000 test episodes.
-* **Order Completion**: A 99.5% order completion rate.
-
----
-
 ## 🏆 Key Results & Achievements
 
 - **Generated Positive Alpha**: Achieved an average alpha of **+$42.19 per episode** against the industry-standard TWAP benchmark on an out-of-sample dataset.
